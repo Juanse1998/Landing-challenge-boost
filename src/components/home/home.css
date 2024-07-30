@@ -1,0 +1,27 @@
+.container-header {
+  height: auto;
+  flex-shrink: 0;
+}
+
+.title {
+  color: #101A24;
+  font-family: "David Libre";
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 60px;
+  width: 500px;
+}
+
+.texts {
+  width: 400px;
+  line-height: 29px
+}
+
+.button {
+  font-family: "David Libre";
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 29px; /* 145% */
+}

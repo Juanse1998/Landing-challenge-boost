@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "img": "https://s3-alpha-sig.figma.com/img/31dd/7e96/7a694044e65dbcf36d09f616c7dd3720?Expires=1723420800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=gIPjhqOsgWACWXjtUybOf-NLVwD2SXrRmPOu~kH61FbuEoz8YzWCsBiv99oHWHzsZ86IMMBdB2XJMSwgy4kYVqxgnHCMJW~E8ue8P7eknQ2UfEoqnWc1p0uJYnh0E62hzDtctSxsjnI837DCi7OTvFGlvk~2kkqwRpFig61MYo4DHlP4iTNCcyUMCRIPQnJnhtJydeaONKfQs0KbCLxP6445UnrpJxF19ZZzzwYDFP1jSJJt66Fujq5XqP6zTxuWuUcCpy4RPT060cKAYJy8CiuDgw2vMM1caegZXhyiV3TzCzcNOjiRPSnkYRWOUoZGllyrR3HbHNistJHRBQV3rw__",
+      "title": "Ensalada César",
+      "description": "Crujientes trozos de pollo sobre una cama de lechuga romana, acompañados de crutones, queso parmesano y aderezo César casero."
+    },
+    {
+      "id": 2,
+      "img": "https://s3-alpha-sig.figma.com/img/7fba/5a9d/8622f58c148ca95de2786b1faa7926a4?Expires=1723420800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=DHndncWHDXObpWmP22GudqVJvrhAvbiNAqwvP7LJgnSEhw5aqmr9GrZxumaEXM4ur~qi~9aHMFtFg81azGfhrclPRoUWBy3LdHn8xbYSZHgayiLI8njnplV-Up2oX2V7vE5ZgjLTVC0BsoDwCdW--cpkhEqOyWFp8MnIicJi3oPgEAxv35EyWm917F11NGedK2l9j4cDAw6Dr9aT~7ykXgoG1JIG0~lPmPZ0Az64Nk9ym6GnUXTPivc-AtqB~o5tc8lmagZYY8QFwqKCZaQ~jGqUP5YMNTS09PfmZe4uofBgotlDal6hPRT28VNCDIRkBh1xMZobtX8cBY~53tc-NA__",
+      "title": "Pizza Margherita",
+      "description": "Deliciosa pizza con salsa de tomate, mozzarella fresca, albahaca y un toque de aceite de oliva extra virgen."
+    },
+    {
+      "id": 3,
+      "img": "https://s3-alpha-sig.figma.com/img/dadd/00c7/32079e63689d1d32e29f969127b1bc3d?Expires=1723420800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=pbar1n1qFK~kGgyC39C-A-ObyfERtuZ~6otvLzxwZ0hIL~nmZ8~F8y6jvqxN8Lmg4so5gioIBjZLEsOk5IpgbdyvImkzeEf8es-gBguOdsL5Ol7BdHvhMBYX4gD1-1WwfYW1rs2HXWV1n5EBnIKcK9Ol2cpMCesT96~R6Jl~DNQWKFN6KnD671GLRjQyhYmbEpBIlrGwtA~9bqRAfFNaJZKbc1P2Zn4Kl13rCr5SmaVGb~cUTksxo-4oZ4zGP4~EWR4EgUvcuRGJHO2pBqIrMoQAzbsFb2Jl4xveHrCcxBEY0BkjoRTN7DV7EsvV7A4snsgG8Hf-Y3UVtx0X7OpUrA__",
+      "title": "Pasta Carbonara",
+      "description": "Pasta con una rica salsa de crema, huevo, panceta y queso parmesano, decorada con perejil fresco."
+    },
+    {
+      "id": 4,
+      "img": "https://s3-alpha-sig.figma.com/img/e81a/c223/a639cd1a246f58720c07f6bc8bcb8734?Expires=1723420800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=bgV-XepQgaefhLduKjr5PpFsTc7T2xeYSVfPUPzd6Zrr0ARrHUG232OvOA-VsIO6AF3Frezp171oM2Ouivz53Sjhl1HAXvDdYs3~ninPufE2PF4KDoEiTQrpiLDibFW0MvJB4wGj3uGNrXhxYbKKasBwGtuQkPjw8AMjaA12tFgA1~m0q8xo8jUKsOw3-jK9wmua4Gcp8gCQ0udIkcUEXkb72kx3k9yAsGfMjSa39FpaHuiVAZOg~kczoRysm8SVPOAHYnP3f2349Y95Dp9nGW3G8PB8UcEAm1g1Jyt-9xoCohsmWjM6075c5pGhp0FQoRE4fED4xAuNl80NhKj1eg__",
+      "title": "Tacos al Pastor",
+      "description": "Tacos rellenos de carne de cerdo marinada, acompañados de piña, cebolla, cilantro y salsa de chile."
+    }
+  ]
+}
